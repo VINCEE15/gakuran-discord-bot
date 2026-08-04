@@ -97,7 +97,6 @@ try {
 
         const embed = new EmbedBuilder()
             .setColor("#5865F2")
-            .setTitle("🎁 Gakuran Codes Tracker")
             .setDescription(
                 `##  Active Codes\n${
                     uniqueActive.length
