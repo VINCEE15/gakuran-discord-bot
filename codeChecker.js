@@ -88,7 +88,7 @@ try {
     console.log("Creating tracker message...");
 
     message = await channel.send({
-        content: "🎁 Gakuran Codes Tracker\n⏳ Updating..."
+        content: "SECTION E Codes Tracker\n⏳ Updating..."
     });
 
     console.log("SAVE THIS MESSAGE ID:", message.id);
